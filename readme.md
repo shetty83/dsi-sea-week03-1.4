@@ -59,7 +59,6 @@ to each city, or each housing type. Just make sure that you use enough data
 in each case to get a good fit.
 * Find the best model you can that predicts price from the other variables
 
-> [Solution code](./code/solution-code/w3-1.4-solutions.ipynb)
 
 #### Deliverable
 
